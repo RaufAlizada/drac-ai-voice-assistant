@@ -1,0 +1,15 @@
+speech_recognition
+datetime
+webbrowser
+random
+requests
+wikipedia
+pyjokes
+subprocess
+threading
+time
+re
+os
+glob
+queue
+pyaudio
