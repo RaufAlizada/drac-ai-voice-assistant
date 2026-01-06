@@ -1,0 +1,31 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="SpeechRecognition" />
+          <option value="pyttsx3" />
+          <option value="pyjokes" />
+          <option value="wikipedia" />
+          <option value="requests" />
+          <option value="numpy" />
+          <option value="scikit-learn" />
+          <option value="psutil" />
+          <option value="PyAudio" />
+          <option value="pyaudio" />
+          <option value="speechrecognition" />
+          <option value="datetime" />
+          <option value="webbrowser" />
+          <option value="random" />
+          <option value="subprocess" />
+          <option value="threading" />
+          <option value="time" />
+          <option value="re" />
+          <option value="os" />
+          <option value="glob" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
