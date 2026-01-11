@@ -48,3 +48,24 @@ Inspired by Jarvis-style assistants, DRAC can listen, understand, and respond **
 ```bash
 git clone https://github.com/RaufAlizada/drac-ai-voice-assistant.git
 cd drac-ai-voice-assistant
+```
+
+### 2️⃣ Install requirements
+```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ Configure config.py file
+- Get your weather api key -> https://openweathermap.org/api
+- Get your news api key -> https://newsapi.org/
+
+### 4️⃣ Run the assistant
+```bash
+python D.R.A.C.py
+```
+
+---
+
+## 📜 License
+
+This project is MIT licensed.
